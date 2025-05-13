@@ -1,0 +1,14 @@
+{
+    "start": {
+        "welcome": "Hello, you have been authorized",
+        "alreadyRegistered": "You are already registered!"
+    },
+    "errors": {
+        "noUserId": "Failed to get your ID"
+    },
+    "language": {
+        "select": "Please choose your language:",
+        "changed": "Language changed to English",
+        "goBack": "↩️ Get Back"
+    }
+}

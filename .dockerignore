@@ -1,0 +1,9 @@
+*.log
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+yarn-error.log
+node_modules
+dist
+runwsl.cmd

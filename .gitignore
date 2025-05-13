@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Yarn
+yarn-error.log
+
+# .env file
+.env
+.prod.env
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# IDE settings
+.vscode/
+
+# Windows
+Thumbs.db
+
+# Windows Installer logs
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows runnner
+runwsl.cmd
+
+# Npm logs
+npm-debug.log*
+
+# TypeScript declarations for build
+typings/
+
+# Coverage reports from Jest
+coverage/
+
+# Jest cache
+*.jest
+
+# ESLint cache
+.eslintcache
